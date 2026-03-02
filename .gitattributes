@@ -1,10 +1,7 @@
-# Unity
 *.meta binary
 *.unity binary
 *.asset binary
 *.prefab binary
-
-# Text files
 *.txt text
 *.cs text diff=csharp
 *.shader text
@@ -12,8 +9,6 @@
 *.json text
 *.xml text
 *.md text
-
-# Images
 *.png binary
 *.jpg binary
 *.jpeg binary
@@ -26,8 +21,6 @@
 *.exr binary
 *.hdr binary
 *.ico binary
-
-# Audio
 *.mp3 binary
 *.ogg binary
 *.wav binary
@@ -36,8 +29,6 @@
 *.mod binary
 *.it binary
 *.s3m binary
-
-# Models
 *.fbx binary
 *.obj binary
 *.dae binary
@@ -50,8 +41,6 @@
 *.c4d binary
 *.lxo binary
 *.abc binary
-
-# Archives
 *.zip binary
 *.rar binary
 *.7z binary
